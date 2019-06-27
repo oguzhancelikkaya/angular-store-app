@@ -1,0 +1,14 @@
+.product-wrapper{
+  outline:1px solid #f9f9f9;
+  background-color:#f9f9f9;
+  padding:15px;
+  margin:10px 10px;
+  display:inline-block;
+  float:left;
+}
+
+/*
+Copyright Google LLC. All Rights Reserved.
+Use of this source code is governed by an MIT-style license that
+can be found in the LICENSE file at http://angular.io/license
+*/

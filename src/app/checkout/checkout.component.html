@@ -1,0 +1,6 @@
+
+<div class="cart-item" *ngFor="let item of items">
+  <span>{{ item.name }}</span>
+  <span>{{ item.price | currency }}</span>
+  <a href="javascript:void(0)" (click)="deleteProduct(item)"> Delete</a>
+</div>
